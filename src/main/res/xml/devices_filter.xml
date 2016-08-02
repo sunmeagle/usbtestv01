@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+    <!--U盘设备-->
+    <usb-device vendor-id="2385" product-id="5734" />
+    <!--需要连接的设备-->
+    <usb-device vendor-id="1027" product-id="24597" />
+    <!--需要连接的设备-->
+    <usb-device vendor-id="2362" product-id="9488" />
+</resources>
